@@ -51,4 +51,3 @@ console.log(+""); //0
 let gameCounter =100
 gameCounter++
 console.log(gameCounter);
-
