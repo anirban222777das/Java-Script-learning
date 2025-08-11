@@ -1,2 +1,5 @@
-time = 1 hour 38 min 43 sec
+time = 2 hour 29 min 18 sec
 Javascript in 1 shot in Hindi | part 1 (Chai aur Code)💀
+
+console.log(`Hello my name is ${name} and my repo count is ${repocount}`);
+/ /new method (thats pretty good 😊)
